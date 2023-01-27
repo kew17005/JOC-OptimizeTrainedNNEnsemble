@@ -13,5 +13,5 @@ Each instance consists of parameters of trained NN for the corresponding problem
 - **twoPhaseAlg** contains source code of two-phase algorithm developed in the paper.
 - **twoPhaseSensitivity** contains source code for conducting sensitivity analysis.
 # Results
-- **OptimizationAlgorithmResults** contains .xlsx file logging the computational results reported in section 5.4.
-- **SolutionQualityResults** contains .xlsx files logging the results of solution quality comparison reported in section 5.3.
+- **OptimizationAlgorithmResults** contains .xlsx file logging the computational results reported in section 5.3 and 5.4.
+- **SolutionQualityResults** contains .xlsx files logging the results of solution quality comparison reported in section 5.2.
