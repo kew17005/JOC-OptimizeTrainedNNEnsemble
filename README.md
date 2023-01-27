@@ -1,7 +1,7 @@
 # JOC-OptimizeTrainedNNEnsemble
 This repository contains the test instances and the code in the article "Optimizing over an ensemble of trained neural networks", authored by Keliang Wang, Leonardo Lozano, Carlos Cardonha, and David Bergman, which has been accepted for publication at the INFORMS Journal on Computing.
 # Dataset
-The **Dataset** folder contains training datasets for four benchmark functions(stored as numpy array) Peaks, Beale, Perm, and Spring; two real-world datasets Winequality_red(.csv) and Concrete_Data(.xls).
+The **Dataset** folder contains training datasets for four benchmark functions(stored in numpy array) Peaks, Beale, Perm, and Spring; two real-world datasets Winequality_red(.csv) and Concrete_Data(.xls).
 # Instances
 Each instance consists of parameters of trained NN for the corresponding problem.
 ## Instances for comparing solution quality
